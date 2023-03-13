@@ -16,7 +16,7 @@ Chinese Extractive Question Answering
 - Improve preprocessing
 - Improve postprocessing
 
-## Training tips
+## Training techniques
 
 - Automatic mixed precision
 - Gradient accumulation
